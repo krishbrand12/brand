@@ -25,16 +25,16 @@ os.system('pip install bs4')
 #os.system('pip install urillb3')
 os.system("pkg install espeak")
 #os.system("pkg update")
-print('\033[95;1m[\x1b[38;5;50m+\033[95;1m] \x1b[38;5;50mCHECKING UPDATE...? ')
+print('\033[95;1m[\x1b[38;5;50m+\033[95;1m] \x1b[38;5;50mTHAQUREE UPDATE...? ')
 os.system("espeak -a 300 \"THAQUREE,Update,\"")
 time.sleep(2)
 #os.system('clear')
-print('\033[91;1m[\x1b[31;5;50m+\033[91;1m] \x1b[31;5;50mUPDATE VERSHON 7.7...! ')
+print('\033[91;1m[\x1b[31;5;50m+\033[91;1m] \x1b[31;5;50mUPDATE LADO 7.7...! ')
 os.system("espeak -a 300 \"UPDATE LADO 7.7,\"")
 time.sleep(2)
 #os.system('clear')
 print("\033[95;1m[\x1b[35;5;50m+\033[97;1m]\x1b[35;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
-os.system("espeak -a 300 \"SUBSCRIBE MADARCHUD,MY,YOUTUBE,CHANNEL MUGI,\"")
+os.system("espeak -a 300 \"SUBSCRIBE MADARCHUD,MY,YOUTUBE,CHANNEL MG,\"")
 time.sleep(2)
 os.system(f'xdg-open https://www.youtube.com/@KRISH-BRAND12don')
 os.system(f'xdg-open https://www.facebook.com/profile.php?id=100073075975241')
@@ -1650,8 +1650,7 @@ os.system('xdg-open https://m.facebook.com/profile.php?id=100073075975241')
 logo ="""
  ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
  ║\033[0;96m●▬▬▬▬▬๑🌸🕌۩[KRISH BRANDED MAHAL]۩🕌🌸๑▬▬▬▬▬▬●\033[0;91m║
- ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
-  \33[0;91m       /$$   /$$           /$$           /$$      
+ ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝  \33[0;91m       /$$   /$$  /$$             $$      
 \33[0;91m| $$  /$$/          |__/          | $$      
 \33[0;91m| $$ /$$/   /$$$$$$  /$$  /$$$$$$$| $$$$$$$ 
 \33[0;91m| $$$$$/   /$$__  $$| $$ /$$_____/| $$__  $$
@@ -1666,8 +1665,8 @@ logo ="""
  ║\33[0;95m[<🕌BRAND "KING" It,'You Will Never KRISH🕴️>]\033[0;95m║
  ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[1;31m==================================================
-[] AUTHOR       :      𝐌𝐑.SHIKHAR
-[] TOOLS        :     𝐅𝐈𝐋𝐄-𝐂𝐋𝐎𝐍𝐈𝐍𝐆
+[] AUTHOR       :      DON.SHIKHAR
+[] TOOLS        :     FILECLONING
 [] TYPE         :      𝗣𝗔𝗜𝗗(USER ONLY)
 [] FACEBOOK     :      BRAND THAQUREE
 [] VERSION      :      7.7
